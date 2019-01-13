@@ -4,8 +4,14 @@ public class SomeProgram {
 		System.out.println("We will be Git experts, soon.");
     }
     
+
     public void manageTheSatellite() {
-    // TODO implement
+    System.out.println("3... 2 ... 1");
 }
     
+
+    public void startTheRockets() {
+	System.out.println("BUM!!!!!!");
+	}
+
 }
